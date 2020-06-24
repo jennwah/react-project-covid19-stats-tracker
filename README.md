@@ -11,3 +11,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### This project is to enhance my basic understanding of React and react Hooks as front end.  
 For the charts, Chartjs is used with react-chartjs-2. 
 
+I have also uploaded a 1-min video demo for this app [here](https://www.youtube.com/watch?v=aano97jsmDA)
+
